@@ -58,7 +58,7 @@ namespace DIConstructorInjection
         }
     }
 
-    class constructor
+    class ConstructorDI
     {
         static void Main(string[] args)
         {
